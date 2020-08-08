@@ -11,7 +11,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "PHOTOGRAPHY",
-"img": "01.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/01.jpg"
 }, {
 "id": 2,
 "name": "MEDITERRANEAN MARKET AND DELI",
@@ -23,7 +23,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Food",
-"img": "21.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/21.jpg"
 }, {
 "id": 3,
 "name": "1ST UNITED BANK",
@@ -35,7 +35,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"", 
 "services": "Bank",
-"img": "02.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/02.jpg"
 }, {
 "id": 4,
 "name": "3121 REP INC",
@@ -46,7 +46,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Representative",
-"img": "03.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/03.jpg"
 }, {
 "id": 5,
 "name": "610 CLEMATIS CONDOMINIUM ASSOC",
@@ -58,7 +58,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Apartment Building",
-"img": "04.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/04.jpg"
 }, {
 "id": 6,
 "name": "A TRAVEL EMPORIUM",
@@ -70,7 +70,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Cruise Agency",
-"img": "05.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/05.jpg"
 }, {
 "id": 7,
 "name": "A/G HAIR STUDIO LLC",
@@ -82,7 +82,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Beauty",
-"img": "11.png"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/11.png"
 }, {
 "id": 8,
 "name": "ABACOA CONSTRUCTION LLC",
@@ -94,7 +94,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "CONSTRUCTION",
-"img": "10.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/10.jpg"
 }, {
 "id": 9,
 "name": "ACCENT FLOOR DESIGNS INC",
@@ -118,7 +118,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Professional staffing",
-"img": "46.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/46.jpg"
 }, {
 "id": 11,
 "name": "ACCOUNTS RECEIVABLES INC DBA ARI",
@@ -130,7 +130,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "ACCOUNTING",
-"img": "47.png"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/47.png"
 }, {
 "id": 12,
 "name": "ACHIEVE OF FLORIDA LLC",
@@ -142,7 +142,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "ACHIEVE",
-"img": "48.png"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/48.png"
 }, {
 "id": 13,
 "name": "ACI ARCHITECTURAL CONSULTANTS INC",
@@ -154,7 +154,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "ARCHITECTURAL",
-"img": "50.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/50.jpg"
 }, {
 "id": 14,
 "name": "ACKERMAN LINK & SARTORY PA",
@@ -166,7 +166,7 @@
 "about":"Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "43.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/43.jpg"
 }, {
 "id": 15,
 "name": "ADDICTIVE ART�S HOUSE",
@@ -178,7 +178,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Art",
-"img": "13.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/13.jpg"
 }, {
 "id": 16,
 "name": "ADDISON CAPITAL MANAGEMENT LLC",
@@ -190,7 +190,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Capital Partners",
-"img": "17.PNG"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/17.PNG"
 }, {
 "id": 17,
 "name": "ADDISON DEVELOPMENT GROUP, INC.",
@@ -202,7 +202,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Luxury Homes",
-"img": "39.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/39.jpg"
 }, {
 "id": 18,
 "name": "ADENSYNX LLC",
@@ -214,7 +214,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "PHOTOGRAPHY",
-"img": "06.jpeg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/06.jpeg"
 }, {
 "id": 19,
 "name": "ADMIN OUTSOURCE SERVICES CORP",
@@ -226,7 +226,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "OUTSOURCE",
-"img": "08.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/08.jpg"
 }, {
 "id": 20,
 "name": "ADRIANA LUCHECHKO INCORPORATED",
@@ -238,7 +238,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Medical",
-"img": "11.PNG"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/11.PNG"
 }, {
 "id": 21,
 "name": "ADVANTAGE MARITIME INC",
@@ -249,7 +249,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "shipping industry",
-"img": "23.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/23.jpg"
 }, {
 "id": 22,
 "name": "AFFINITY ENTERTAINMENT INC",
@@ -261,7 +261,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Entertainment Agency",
-"img": "24.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/24.jpg"
 }, {
 "id": 23,
 "name": "AG CHEMICAL.COM LLC",
@@ -273,7 +273,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Chemical",
-"img": "36.PNG"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/36.PNG"
 }, {
 "id": 24,
 "name": "AINSWORTH PET NUTRITION INC",
@@ -285,7 +285,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Pet Care",
-"img": "51.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/51.jpg"
 }, {
 "id": 25,
 "name": "ALEXANDER R BRUMFIELD III PA",
@@ -297,7 +297,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Art",
-"img": "28.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/28.jpg"
 }, {
 "id": 26,
 "name": "ALFONSO HERNANDEZ ARCHITECT LLC",
@@ -309,7 +309,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Architect",
-"img": "52.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/52.jpg"
 }, {
 "id": 27,
 "name": "ALFONSO S VELASQUEZ",
@@ -321,7 +321,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Art",
-"img": "42.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/42.jpg"
 }, {
 "id": 28,
 "name": "ALIGNED CRAFTSMEN INC",
@@ -333,7 +333,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Craftsmen",
-"img": "53.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/53.jpg"
 }, {
 "id": 29,
 "name": "ALL BRIGHT IDEAS INC",
@@ -345,7 +345,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Bright Idea",
-"img": "25.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/25.jpg"
 }, {
 "id": 30,
 "name": "ALL COUNTIES SURPLUS LLC",
@@ -357,7 +357,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Auditor",
-"img": "33.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/33.jpg"
 }, {
 "id": 31,
 "name": "ALLIED CONTROL INC",
@@ -369,7 +369,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Safety",
-"img": "29.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/29.jpg"
 }, {
 "id": 32,
 "name": "ALTIMA ART",
@@ -381,7 +381,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Art",
-"img": "54.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/54.jpg"
 }, {
 "id": 33,
 "name": "ALTITUDE FUNDING ASSOCIATES LLC",
@@ -393,7 +393,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Financing",
-"img": "17.PNG"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/17.PNG"
 }, { 
 "id": 34,
 "name": "AM GLOBAL FAMILY INVESTMENT OFC LLC",
@@ -405,7 +405,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Investment",
-"img": "55.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/55.jpg"
 }, {
 "id": 35,
 "name": "AMAZON INVESTMENT GROUP",
@@ -417,7 +417,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Financial services",
-"img": "56.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/56.jpg"
 }, {
 "id": 35,
 "name": "AMCO PROPERTY MANAGEMENT LLC",
@@ -429,7 +429,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Property Management",
-"img": "57.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/57.jpg"
 }, {
 "id": 36,
 "name": "AMEC ENVIRONMENT & INFRASTRUCTURE I",
@@ -441,7 +441,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Coach",
-"img": "40.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/40.jpg"
 }, {
 "id": 36,
 "name": "AMERICAN COMMERCIAL REALTY CORP",
@@ -453,7 +453,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Realt Estate",
-"img": "58.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/58.jpg"
 }, {
 "id": 37,
 "name": "AMERICAN CRAFT ALEWORKS",
@@ -465,7 +465,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Speical beers",
-"img": "59.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/59.jpg"
 }, {
 "id": 38,
 "name": "AMERICAN SUGAR REFINING INC",
@@ -477,7 +477,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Food",
-"img": "08.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/08.jpg"
 }, {
 "id": 39,
 "name": "AMERICAS EXPORT CORP",
@@ -489,7 +489,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "EXPORT",
-"img": "19.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/19.jpg"
 }, {
 "id": 40,
 "name": "AMY HOFFMANN INC",
@@ -501,7 +501,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "PHOTOGRAPHY",
-"img": "24.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/24.jpg"
 }, {
 "id": 41,
 "name": "ANCHOR WEALTH MANAGEMENT GROUP LLC",
@@ -513,7 +513,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Wealth Management",
-"img": "29.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/29.jpg"
 }, {
 "id": 42,
 "name": "ANDERSEN TAX",
@@ -525,7 +525,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Tax",
-"img": "60.jpg" 
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/60.jpg" 
 }, {
 "id": 43,
 "name": "ANDERSON & CARR",
@@ -537,7 +537,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Real estate",
-"img": "61.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/61.jpg"
 }, {
 "id": 44,
 "name": "ANDERSON & WELCH LLC",
@@ -549,7 +549,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Attorney",
-"img": "62.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/62.jpg"
 }, {
 "id": 45,
 "name": "ANDREW F OWENS",
@@ -561,7 +561,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "09.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/09.jpg"
 }, {
 "id": 46,
 "name": "ANDREW J BLOEMERS",
@@ -573,7 +573,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "PHOTOGRAPHY",
-"img": "15.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/15.jpg"
 }, {
 "id": 47,
 "name": "ANGELO DAVILA ARCHITECT LLC",
@@ -585,7 +585,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Architectural Services",
-"img": "14.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/14.jpg"
 }, {
 "id": 48,
 "name": "ANNA CAROLINE LENZ",
@@ -597,7 +597,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Sport",
-"img": "22.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/22.jpg"
 }, {
 "id": 49,
 "name": "ANZO",
@@ -609,7 +609,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Food",
-"img": "18.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/18.jpg"
 }, {
 "id": 50,
 "name": "AON RISK SERVICES INC OF FLORIDA",
@@ -621,7 +621,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Human Resources",
-"img": "63.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/63.jpg"
 }, {
 "id": 51,
 "name": "AQUASHINE LLC",
@@ -633,7 +633,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Cleaning",
-"img": "32.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/32.jpg"
 }, {
 "id": 52,
 "name": "ARIEL D SOFFER",
@@ -645,7 +645,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "41.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/41.jpg"
 }, {
 "id": 53,
 "name": "ARNSTEIN & LEHR LLP",
@@ -657,7 +657,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "20.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/20.jpg"
 }, {
 "id": 54,
 "name": "ARTHUR SCHOFIELD PA",
@@ -669,7 +669,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "65.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/65.jpg"
 }, {
 "id": 55,
 "name": "ASCEND THE TREND BARBERSHOP",
@@ -681,7 +681,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "BARBERSHOP",
-"img": "64.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/64.jpg"
 }, {
 "id": 56,
 "name": "ATHENA'S",
@@ -693,7 +693,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Food",
-"img": "44.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/44.jpg"
 }, {
 "id": 57,
 "name": "ATHERTON LAW GROUP PA",
@@ -705,7 +705,7 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "Law",
-"img": "12.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/12.jpg"
 }, {
 "id": 58,
 "name": "ATLAS ONE FINANCIAL GROUP LLC",
@@ -717,6 +717,6 @@
 "about": "Lorem ipsum dolor sit amet, dicta hendrerit pro ne. Quo eu veniam menandri, id his quas copiosae. Vix at menandri mediocrem dissentiunt, at meliore detracto pro. Sea hinc iudico ullamcorper in, mazim viris mel ex.",
 "menu":"",
 "services": "FINANCIAL",
-"img": "66.jpg"
+"img": "https://github.com/rubinmathias2018/androidapp/blob/master/66.jpg"
 }]
 }
